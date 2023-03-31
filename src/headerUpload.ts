@@ -13,7 +13,7 @@ const headerUpload = () => {
   const contentHeader = document.querySelector("#contentHeader");
 
   const logo = document.createElement("img");
-  logo.src = "/Users/keyan/Desktop/coding/the_odin_project/repos/restaurant_page/img/logo.png";
+  logo.src = "../img/logo.png";
   logo.classList.add("logo");
   contentHeader.append(logo);
 

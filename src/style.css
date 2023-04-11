@@ -90,11 +90,15 @@ li:hover {
   width: 400px;
   display: block;
   margin: 0 auto;
+  background-image: url('../img/paella.jpeg');
+  src: '../img/paella.jpeg'
 }
 
 .logo {
   width: 200px;
   padding-left: 100px;
+  background-image: url('../img/logo.png');
+  src: '../img/paella.jpeg'
 }
 
 #content > .menu-grid {
